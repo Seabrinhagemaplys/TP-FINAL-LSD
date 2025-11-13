@@ -19,7 +19,7 @@ As saídas correspondentes a cada semáforo são:
 * sinal_amarelo;
 * sinal_vermelho;
 * virar_a_direita.
-* 
+
 Dessa forma, o sistema global apresenta um total de oito entradas e oito saídas.
 
 #### Comportamento do Sistema
