@@ -38,4 +38,4 @@ correspondente, utiliza-se a entrada outro_pedestre para verificar se há traves
 
 ## Datapath - RTL fase 2
 
-<img src=https://media.discordapp.net/attachments/724821027816734760/1439382183604387932/Diagrama_em_branco_1_page-0001_1.jpg?ex=691a509e&is=6918ff1e&hm=d0a426ef293bd4954423d99149584c2b6d9cbf4cebffb78aad40fac3fcd05c88&=&format=webp&width=930&height=552" alt="Caminho de Dados - RTL fase 2">
+<img src="https://media.discordapp.net/attachments/724821027816734760/1439382183604387932/Diagrama_em_branco_1_page-0001_1.jpg?ex=691a509e&is=6918ff1e&hm=d0a426ef293bd4954423d99149584c2b6d9cbf4cebffb78aad40fac3fcd05c88&=&format=webp&width=930&height=552" alt="Caminho de Dados - RTL fase 2">
