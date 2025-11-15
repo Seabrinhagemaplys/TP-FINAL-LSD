@@ -36,6 +36,10 @@ virar à direita desde que não existam pedestres atravessando nem na sua via ne
 via cruzada. Como um pedestre só atravessa se tiver pressionado o botão de pedestre
 correspondente, utiliza-se a entrada outro_pedestre para verificar se há travessia ativa
 
+##FSM de alto nível -RTL fase 1
+
+<img src="https://cdn.discordapp.com/attachments/724821027816734760/1439404175581642902/graphviz_2.png?ex=691a651a&is=6919139a&hm=f075a909f6bf794ba3c553f497fe6ed49cb2bc999b81000c076cf4496b54f4f1&" alt="Caminho de Dados - RTL fase 2">
+
 ## Datapath - RTL fase 2
 
 <img src="https://media.discordapp.net/attachments/724821027816734760/1439382183604387932/Diagrama_em_branco_1_page-0001_1.jpg?ex=691a509e&is=6918ff1e&hm=d0a426ef293bd4954423d99149584c2b6d9cbf4cebffb78aad40fac3fcd05c88&=&format=webp&width=930&height=552" alt="Caminho de Dados - RTL fase 2">
