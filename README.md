@@ -35,3 +35,5 @@ No controle das duas vias, os veículos que estão na faixa da direita devem pod
 virar à direita desde que não existam pedestres atravessando nem na sua via nem na
 via cruzada. Como um pedestre só atravessa se tiver pressionado o botão de pedestre
 correspondente, utiliza-se a entrada outro_pedestre para verificar se há travessia ativa
+
+<img src="https://media.discordapp.net/attachments/724821027816734760/1439381400158732288/Diagrama_em_branco_1_page-0001.jpg?ex=691a4fe4&is=6918fe64&hm=eef4bc9990b89beef84f7735829fd53231decf49d856c19bfe2f3a4b83a4642a&=&format=webp&width=1104&height=552" alt="Caminho de Dados - RTL fase 2">
