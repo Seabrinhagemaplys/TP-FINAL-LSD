@@ -44,4 +44,4 @@ correspondente, utiliza-se a entrada outro_pedestre para verificar se há traves
 <img src="https://media.discordapp.net/attachments/724821027816734760/1439399411347226654/fase_3_rtl_page-0001_1.jpg?ex=691a60aa&is=69190f2a&hm=eeb1752f5034fb05f6fc06e8fdccdc5b887e7dab9a013ac6142f1c675d814bd8&=&format=webp&width=1023&height=552" alt="Integração Caminho de dados e Controladora - RTL fase 3">
 
 ## FSM de baixo nível - RTL fase 4
-<img src="https://media.discordapp.net/attachments/724821027816734760/1439400153953075230/graphviz_2.png?ex=691a615b&is=69190fdb&hm=6ebc898f74c29b4a4a18c0854e2a9a7d119f06a4faa5cb3d94c4b446aabf8880&=&format=webp&quality=lossless&width=1318&height=492" alt="FSM de baixo nível - RTL fase 4">
+<img src="https://media.discordapp.net/attachments/724821027816734760/1439403565394301029/graphviz_1.png?ex=691a6488&is=69191308&hm=8bd6c6162cdde7a9501528d0a54f80a81fdf8b999450b64a845747488063088a&=&format=webp&quality=lossless&width=822&height=643" alt="FSM de baixo nível - RTL fase 4">
