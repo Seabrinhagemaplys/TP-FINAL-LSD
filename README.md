@@ -36,7 +36,7 @@ virar à direita desde que não existam pedestres atravessando nem na sua via ne
 via cruzada. Como um pedestre só atravessa se tiver pressionado o botão de pedestre
 correspondente, utiliza-se a entrada outro_pedestre para verificar se há travessia ativa
 
-##FSM de alto nível -RTL fase 1
+## FSM de alto nível -RTL fase 1
 
 <img src="https://cdn.discordapp.com/attachments/724821027816734760/1439404175581642902/graphviz_2.png?ex=691a651a&is=6919139a&hm=f075a909f6bf794ba3c553f497fe6ed49cb2bc999b81000c076cf4496b54f4f1&" alt="Caminho de Dados - RTL fase 2">
 
@@ -45,7 +45,7 @@ correspondente, utiliza-se a entrada outro_pedestre para verificar se há traves
 <img src="https://media.discordapp.net/attachments/724821027816734760/1439409671281836124/vvvvvv_page-0001_1.jpg?ex=691a6a38&is=691918b8&hm=3e4742e3ff5cfb4f3e515d796725bd00bf318a5636b163dd6dec8640a9ea2e72&=&format=webp&width=822&height=569" alt="Caminho de Dados - RTL fase 2">
 
 ## Integração Caminho de dados e Controladora - RTL fase 3
-<img src="https://media.discordapp.net/attachments/724821027816734760/1439406146183106771/Fluxograma_1_1111_page-0001_1.jpg?ex=691a66f0&is=69191570&hm=7e45b4d239f894a28ac54bc0861a537283a6078dbca01d286877c116823cc7b9&=&format=webp&width=1072&height=552" alt="Integração Caminho de dados e Controladora - RTL fase 3">
+<img src="https://media.discordapp.net/attachments/724821027816734760/1439410138913050824/Fluxograma_2dadsa_page-0001_1.jpg?ex=691a6aa8&is=69191928&hm=6d4df3a2709521feb3863b053d569499c8943ef6f43efe0cb5ad374093fe1242&=&format=webp&width=1205&height=552" alt="Integração Caminho de dados e Controladora - RTL fase 3">
 
 ## FSM de baixo nível - RTL fase 4
 <img src="https://media.discordapp.net/attachments/724821027816734760/1439403565394301029/graphviz_1.png?ex=691a6488&is=69191308&hm=8bd6c6162cdde7a9501528d0a54f80a81fdf8b999450b64a845747488063088a&=&format=webp&quality=lossless&width=822&height=643" alt="FSM de baixo nível - RTL fase 4">
