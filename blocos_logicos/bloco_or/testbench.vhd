@@ -9,17 +9,18 @@ architecture arqsim of tb_bloco_or is
     signal entrada_dois : std_logic;
     signal saida        : std_logic;
     constant tempo    : time := 10 ns;
-    begin
+begin
     	
-        -- Declarando a uut e realizando o port map
-        uut:entity work.bloco_or
-        port map(
-        	entrada_um => entrada_um,
-            entrada_dois => entrada_dois,
-            saida => saida
-        );
-        process
-        begin
+    -- Declarando a uut e realizando o port map
+    uut:entity work.bloco_or
+        
+    port map(
+        entrada_um => entrada_um,
+        entrada_dois => entrada_dois,
+        saida => saida
+    );
+    process
+    begin
         
         --Testes implementados
         entrada_um <= '0';
@@ -36,5 +37,5 @@ architecture arqsim of tb_bloco_or is
         
         --Fim da simulação
         wait;
-        end process;
+    end process;
 end architecture;
