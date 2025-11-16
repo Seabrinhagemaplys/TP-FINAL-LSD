@@ -5,4 +5,4 @@ implementamos um alternador, que faz as saídas alternarem entre 0 e 1 quando ha
 
 #### Link projeto no EDA playground
 
-[link do projeto](https://edaplayground.com/x/EjJ_)
+[link do projeto](https://edaplayground.com/x/mKHt)
