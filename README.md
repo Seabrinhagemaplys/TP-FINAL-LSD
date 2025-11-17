@@ -45,7 +45,7 @@ correspondente, utiliza-se a entrada outro_pedestre para verificar se há traves
 <img src="https://media.discordapp.net/attachments/724821027816734760/1439409671281836124/vvvvvv_page-0001_1.jpg?ex=691a6a38&is=691918b8&hm=3e4742e3ff5cfb4f3e515d796725bd00bf318a5636b163dd6dec8640a9ea2e72&=&format=webp&width=822&height=569" alt="Caminho de Dados - RTL fase 2">
 
 ## Integração Caminho de dados e Controladora - RTL fase 3
-<img src="https://media.discordapp.net/attachments/724821027816734760/1439410138913050824/Fluxograma_2dadsa_page-0001_1.jpg?ex=691a6aa8&is=69191928&hm=6d4df3a2709521feb3863b053d569499c8943ef6f43efe0cb5ad374093fe1242&=&format=webp&width=1205&height=552" alt="Integração Caminho de dados e Controladora - RTL fase 3">
+<img src="https://media.discordapp.net/attachments/724821027816734760/1439990462826942517/RLLT3_page-0001_1.jpg?ex=691c8720&is=691b35a0&hm=6d547c0ec9a355e9d9882102a240ebd54fee4b4d088f0e3adb78730f09410bad&=&format=webp&width=1189&height=552" alt="Integração Caminho de dados e Controladora - RTL fase 3">
 
 ## FSM de baixo nível - RTL fase 4
 <img src="https://media.discordapp.net/attachments/724821027816734760/1439403565394301029/graphviz_1.png?ex=691a6488&is=69191308&hm=8bd6c6162cdde7a9501528d0a54f80a81fdf8b999450b64a845747488063088a&=&format=webp&quality=lossless&width=822&height=643" alt="FSM de baixo nível - RTL fase 4">
