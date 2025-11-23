@@ -38,7 +38,7 @@ correspondente, utiliza-se a entrada outro_pedestre para verificar se há traves
 
 ## FSM de alto nível -RTL fase 1
 
-<img src="https://cdn.discordapp.com/attachments/724821027816734760/1439404175581642902/graphviz_2.png?ex=691a651a&is=6919139a&hm=f075a909f6bf794ba3c553f497fe6ed49cb2bc999b81000c076cf4496b54f4f1&" alt="Caminho de Dados - RTL fase 2">
+<img src="https://github.com/Seabrinhagemaplys/TP-FINAL-LSD/blob/main/graphviz_2.png?raw=true" alt="Caminho de Dados - RTL fase 2">
 
 ## Datapath - RTL fase 2
 
