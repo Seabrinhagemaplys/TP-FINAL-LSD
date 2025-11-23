@@ -1,3 +1,4 @@
+-- Arthur Coronho, Lucas Szuster, Murillo Kelvin - Turma PN5
 library IEEE;
 use IEEE.std_logic_1164.all;
 
