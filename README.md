@@ -42,10 +42,10 @@ correspondente, utiliza-se a entrada outro_pedestre para verificar se há traves
 
 ## Datapath - RTL fase 2
 
-<img src="https://github.com/Seabrinhagemaplys/TP-FINAL-LSD/blob/main/vvvvvv_page-0001_1.jpg?raw=true" alt="Caminho de Dados - RTL fase 2">
+<img title="a title" alt="Alt text" src="/imagens/vvvvvv_page-0001_1.jpg">
 
 ## Integração Caminho de dados e Controladora - RTL fase 3
-<img src="https://github.com/Seabrinhagemaplys/TP-FINAL-LSD/blob/main/RLLT3_page-0001_1.jpg?raw=true" alt="Integração Caminho de dados e Controladora - RTL fase 3">
+<img title="a title" alt="Alt text" src="/imagens/RLLT3_page-0001_1.jpg">
 
 ## FSM de baixo nível - RTL fase 4
-<img src="https://github.com/Seabrinhagemaplys/TP-FINAL-LSD/blob/main/imagens/graphviz_1.png?raw=true" alt="FSM de baixo nível - RTL fase 4">
+<img title="a title" alt="Alt text" src="/imagens/graphviz_1.png">
