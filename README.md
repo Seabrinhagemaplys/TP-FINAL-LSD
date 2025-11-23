@@ -48,4 +48,4 @@ correspondente, utiliza-se a entrada outro_pedestre para verificar se há traves
 <img src="https://github.com/Seabrinhagemaplys/TP-FINAL-LSD/blob/main/RLLT3_page-0001_1.jpg?raw=true" alt="Integração Caminho de dados e Controladora - RTL fase 3">
 
 ## FSM de baixo nível - RTL fase 4
-<img src="https://github.com/Seabrinhagemaplys/TP-FINAL-LSD/blob/main/graphviz_1.png?raw=true" alt="FSM de baixo nível - RTL fase 4">
+<img src="https://github.com/Seabrinhagemaplys/TP-FINAL-LSD/blob/main/imagens/graphviz_1.png?raw=true" alt="FSM de baixo nível - RTL fase 4">
