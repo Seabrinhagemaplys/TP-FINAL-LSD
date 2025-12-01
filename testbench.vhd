@@ -1,11 +1,10 @@
 library IEEE;
 use IEEE.std_logic_1164.ALL;
-use IEEE.NUMERIC_STD.ALL; 
 
-entity tb_DATAPATH_TESTE is
+entity tb_data_path is
 end entity;
 
-architecture behavior of tb_DATAPATH_TESTE is
+architecture behavior of tb_data_path is
     -- Sinais para o UUT (Unit Under Test)
     signal clk : std_logic := '1';
     signal clk_enable : std_logic := '1';
